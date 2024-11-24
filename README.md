@@ -69,16 +69,25 @@ Saída esperada: `ASSENAV`
 **Descrição:**  
 Faça um programa que leia o nome do usuário e o imprima na vertical, em forma de escada, usando apenas letras maiúsculas.
 
-**Exemplo:**  
-Entrada: `Vanessa`  
+**Exemplo:**
+
+Entrada:  `Vanessa`
+
 Saída esperada:  
 V
+
 VA
+
 VAN
+
 VANE
+
 VANES
+
 VANESS
+
 VANESSA
+
 ---
 
 ## Exercício 8: Data de nascimento com mês por extenso
@@ -90,7 +99,7 @@ Faça um programa que leia uma data de nascimento no formato `dd/mm/aaaa` e impr
 Entrada: `20/02/1995`  
 Saída esperada: `Você nasceu em 20 de fevereiro de 1995`
 
---
+---
 
 Exercício realizado no Jupyter Notebook.
 
